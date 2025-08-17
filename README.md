@@ -1,7 +1,7 @@
 # Construccion2ArmandoGonzalez
 Proyecto creación de la clínica
 
-##Integrantes
+## Integrantes
 ### Armando Esteban Gonzalez Velasquez
 
 ## Tecnologias 
